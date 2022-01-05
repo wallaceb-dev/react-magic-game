@@ -1,12 +1,12 @@
 # Blog posts page
 
+![](https://via.placeholder.com/55/111111/61dbfb?text=REACT)
 ![](https://via.placeholder.com/55/ead41c/000000?text=JS)
 ![](https://via.placeholder.com/55/00a4d6/fff?text=CSS)
-![](https://via.placeholder.com/55/111111/61dbfb?text=REACT)
 
 ### Presentation
 
-A Beautiful Memory game developed using Reacjs and CSS. 
+A Beautiful Memory game developed using Reacjs, JS and CSS. 
 
 It was built as part of a tutorial by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg).
 
