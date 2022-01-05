@@ -1,3 +1,22 @@
+# Blog posts page
+
+![](https://via.placeholder.com/55/ead41c/000000?text=JS)
+![](https://via.placeholder.com/55/00a4d6/fff?text=CSS)
+![](https://via.placeholder.com/55/ffffff/61dbfb?text=REACT)
+
+### Presentation
+
+A Beautiful Memory game developed using Reacjs and CSS. 
+
+It was built as part of a tutorial by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg).
+
+[![Game](https://github.com/wallaceb-dev/react-magic-game/blob/master/demo.gif)]
+
+> "Simplicity is the ultimate sophistication", Leonardo Da Vinci
+
+
+https://github.com/wallaceb-dev/react-magic-game/blob/master/demo.gif
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
