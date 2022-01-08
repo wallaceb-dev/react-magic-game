@@ -10,7 +10,7 @@ A Beautiful Memory game developed using Reacjs, JS and CSS.
 
 It was built as part of a tutorial by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg).
 
-[![Game](https://github.com/wallaceb-dev/react-magic-game/blob/master/demo.gif)]
+![Game](https://github.com/wallaceb-dev/react-magic-game/blob/master/demo.gif)
 
 > "Simplicity is the ultimate sophistication", Leonardo Da Vinci
 
