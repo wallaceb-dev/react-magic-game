@@ -23,10 +23,27 @@ function App() {
       .sort(() => Math.random() - 0.5)
       .map((card) => ({ ...card, id: Math.random() }));
 
-    setChoiceOne(null)
-    setChoiceTwo(null)
+    setChoiceOne(null);
+    setChoiceTwo(null);
     setCards(shuffledCards);
     setTurns(0);
+    showChards();
+  };
+
+  const showChards = () => {
+    let cards = document.getElementsByClassName('card');
+
+    setTimeout(() => {
+      for(let i = 0; i < cards.length; i++) {
+        cards[i].firstChild.classList.add('flipped')
+      }
+    }, 200);
+
+    setTimeout(() => {
+      for(let i = 0; i < cards.length; i++) {
+        cards[i].firstChild.classList.remove('flipped')
+      }
+    }, 2200);
   };
 
   const handleChoice = (card) => {
